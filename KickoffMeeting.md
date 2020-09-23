@@ -1,4 +1,4 @@
-Goals:
+## Goals:
 - Everyone understands the hackathon and what is expected of us
 - Choose an idea!!
 - Have a project skeleton pushed up that we can all contribute to
