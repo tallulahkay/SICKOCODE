@@ -86,6 +86,47 @@
     - github access
     - devpost
 - Choose an MVP idea!!
+    - site "I am..." and sends you to diff info depending**
+        - connecting patients to communities
+        - diff ways for loved ones to help
+            - push notifications for how to support (like caring bridge but less critical)
+                - via text message/email/other social media depending on urgency
+            - child support & support for family members
+            - connecting patients & loved ones to therapy/counseling
+        - folks that want to volunteer
+            - publicizing events, engaging corporate employees
+    - tap into EL's presence
+    - reminders to track breast health (built into regular tracking apps)
+    - link to quickly book appointments
+    - trans health: making sure people that aren't just cisgendered women have access to this health too
+        - male breast cancer (inclusive of all people)
+    - user research w/ people in family
+        - where do they already get their information?
+    - timing to get breast exam when wouldn't be painful
+    - educate about menopause
+    - personas w/ roadmap + "tech touchpoints"
+        - filtering by who you are
+        - GPT3 API
+Young person: 
+    - volunteer
+    - family member
+    - diagnosed (patient)
+    - preventative care
+
+Bring breast cancer awareness/care to top of mind for every woman around the world as part of their daily routine. Offer tailored information to women based on their background.
+
+Connect users to information
+    Fancy UI: final product but doesn't work
+        - demographic survey that lands you on an information hub
+    Data/Research:
+        - personas for many people w/ utereses to drive tailored content correllated with their "tech touchpoints"
+        - ability to reach everyone by attaching product to existing platforms
+    Tech Innovation:
+        - input: who they are
+        - output: customized care plan/resources
+
+
+
 - Have a project skeleton pushed up that we can all contribute to
 - Everyone has proper tools downloaded
 - Have a meeting/work cadence scheduled (and on everyone's calendars) that we can all commit to
